@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Disclaimer
+
+This project is presently in its experimental phase, with testing conducted primarily on the Chrome browser. Kindly be advised that while using alternative browsers, bugs may be encountered. Furthermore, it's important to note that the project has not yet undergone comprehensive optimization, which might lead to potential drops in framerate performance.
+
 ## Getting Started
 
 First, run the development server:
